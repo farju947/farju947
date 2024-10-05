@@ -17,7 +17,7 @@ Skills:  Java / BOOTSTRAP / REACT / JS / HTML / CSS
 - 👨‍💻 All of my projects are available at [https://github.com/farju947l](https://github.com/farju947)
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **farjanamisty947@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
